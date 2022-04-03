@@ -1,8 +1,5 @@
     InitREADMEmd(opt => {
-      opt.Currently("learning Microservices, Azure DevOps");
-      opt.LookingTo("collaborate on DDD, Microservices and Clear Architecture");
       opt.FunFact("I broke my glasses on purpose so I could tape 'em together.");
-      opt.HowToReachMe("m.heidari988@gmail.com");
     });
 
 
