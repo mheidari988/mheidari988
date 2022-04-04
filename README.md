@@ -3,8 +3,8 @@
     });
 
 
-- ✨ I’m still learning Microservices, Azure DevOps
-- 😅🤘 I wear my glasses sincerely
+- ✨ Still Learning Microservices, Azure DevOps
+- 😅 I wear my glasses sincerely
 - 📫 How to reach me: m.heidari988@gmail.com
 
 
