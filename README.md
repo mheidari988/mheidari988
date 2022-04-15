@@ -2,8 +2,7 @@
       opt.FunFact("I broke my glasses on purpose so I could tape 'em together.");
     });
 
-
-- ✨ Still Learning Microservices, Azure DevOps
+- ✨ Learning Microservices, Azure DevOps
 - 😅 I wear my glasses sincerely
 - 📫 How to reach me: m.heidari988@gmail.com
 
