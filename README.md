@@ -1,9 +1,9 @@
     InitREADMEmd(opt => {
       opt.FunFact("I broke my glasses on purpose so I could tape 'em together.");
+      opt.WriteToConsole("I wear my glasses sincerely");
     });
 
-- ✨ Learning Microservices, Azure DevOps
-- 😅 I wear my glasses sincerely
+- ✨ Learning Azure DevOps
 - 📫 How to reach me: m.heidari988@gmail.com
 
 
