@@ -4,7 +4,7 @@ InitREADMEmd(opt => {
     opt.WriteToConsole("I wear my glasses sincerely");
 });
 ```
-- ✨ Learning Azure DevOps, and Microservices
+- ✨ Learning Azure DevOps
 - 📫 How to reach me: m.heidari988@gmail.com
 
 <h5 align="left">Connect with me:</h5>
