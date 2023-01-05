@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">A passionate DotNet Core & Angular Developer live in Istanbul</h3>
 
-- 🔭 I’m currently working with [Amplicade GmbH](https://amplicade.com/)
+- 🔭 I’m a Senior Software Developer in [Arneca Technologies](https://www.arneca.com/)
+- ⚡ currently working on a SaaS project with [Amplicade GmbH](https://amplicade.com/)
+- 📫 Lets connect: [LinkedIn](https://www.linkedin.com/in/mohy/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
