@@ -4,7 +4,6 @@
 
 - 🔭 I’m a Senior Software Developer in [Arneca Technologies](https://www.arneca.com/)
 - ⚡ currently working on a SaaS project with [Amplicade GmbH](https://amplicade.com/)
-- 📫 Lets connect: [LinkedIn](https://www.linkedin.com/in/mohy/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
