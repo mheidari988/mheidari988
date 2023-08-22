@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Reza</h1>
-<h3 align="center">A passionate DotNet Core & Angular Developer live in Istanbul</h3>
+<h3 align="center">A passionate Full Stack Software Developer live in Istanbul</h3>
 
 - 🔭 I’m a Senior Software Developer in [Arneca Technologies](https://www.arneca.com/)
 - ⚡ currently working on different projects of the [Memorial Hospitals Group](https://memorial.com.tr/)
