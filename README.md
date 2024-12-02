@@ -4,7 +4,6 @@
 
 - 👋 My portfolio => https://heidari.io/
 - 🔭 I’m a Senior Software Developer in [Arneca Technologies](https://www.arneca.com/)
-- ⚡ currently working on different projects of the [Memorial Hospitals Group](https://memorial.com.tr/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
