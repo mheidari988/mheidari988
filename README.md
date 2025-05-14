@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Reza</h1>
-<h3 align="center">A passionate Full Stack Software Developer live in Istanbul</h3>
+<h3 align="center">A passionate Full Stack Software Architect/Developer live in Istanbul</h3>
 
 - 👋 My portfolio => https://heidari.io/
 - 🔭 I’m a Senior Software Developer in [Arneca Technologies](https://www.arneca.com/)
