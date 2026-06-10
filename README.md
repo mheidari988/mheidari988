@@ -1,4 +1,4 @@
-<h1 align="center">Reza Heidari</h1>
+<h1 align="center">Mohammadreza (Reza) Heidari</h1>
 
 <p align="center">
   Senior .NET Developer / Backend Architect based in Istanbul.
